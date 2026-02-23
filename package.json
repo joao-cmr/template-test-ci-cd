@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run --browser chrome",
-    "report": "allure serve"
+    "report": "allure serve",
+    "report-ci": "npx allure generate --clean allure-results -oallure-results"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "allure-commandline": "^2.36.0",
     "cypress": "^14.2.1"
   },
   "devDependencies": {

@@ -24,4 +24,13 @@ jobs:
 
     - name: Run Cypress tests
       run: npx cypress run
+
+    - name: Generate Allure Report
+      run: npm run report-ci
+
+    - name: Upload Allure Report GA pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         publish_dir: ./allure-results
   
