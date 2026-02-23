@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","471","Deve exibir mensagem de erro quando não preencher o campo e-mail","Testes End to end - QA Playground","2026-02-23","passed","2026-02-23","","","",""
+"","128","Deve ativar e validar o modo de alto contraste","Testes End to end - QA Playground","2026-02-23","passed","2026-02-23","","","",""
+"","609","Deve exibir mensagem de erro quando não preencher o campo Idade","Testes End to end - QA Playground","2026-02-23","passed","2026-02-23","","","",""
+"","468","Testando CI/CD","Testes End to end - QA Playground","2026-02-23","passed","2026-02-23","","","",""
+"","569","Deve exibir mensagem de erro quando não preencher o campo nome","Testes End to end - QA Playground","2026-02-23","passed","2026-02-23","","","",""
+"","807","Deve preencher o formulário com sucesso","Testes End to end - QA Playground","2026-02-23","passed","2026-02-23","","","",""
+"","680","Deve exibir mensagem de erro quando preencher e-mail com formato inválido","Testes End to end - QA Playground","2026-02-23","passed","2026-02-23","","","",""
